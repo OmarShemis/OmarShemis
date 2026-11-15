@@ -11,6 +11,9 @@ My work in finance and Excel/VBA automation sparked an interest in building reli
 | [ResearchGraph](https://github.com/OmarShemis/researchgraph) | A bounded planner -> researcher -> reviewer -> writer workflow with LangGraph, Ollama, Tavily and MCP notes. |
 | [NoteMate](https://github.com/OmarShemis/notemate) | A local notes assistant using Pydantic AI, Ollama and tested tools. |
 | [Invoice Generator](https://github.com/OmarShemis/invoice-generator) | A desktop business tool with decimal calculations, validated inputs and PDF export. |
+| [News Headline Fetcher](https://github.com/OmarShemis/news-headline-fetcher) | A NewsAPI command-line client with country/category selection and environment-based configuration. |
+| [Image Website Downloader](https://github.com/OmarShemis/Image-Website-Downloader) | A Requests/BeautifulSoup tool that downloads images from HTML, including relative image URLs. |
+| [URL Shortener](https://github.com/OmarShemis/url-shortener) | A small Python CLI integrating TinyURL through pyshorteners. |
 | [Dictionary App](https://github.com/OmarShemis/dictionary-app) | A desktop API client with background lookups and error handling. |
 
 ## What I'm learning
