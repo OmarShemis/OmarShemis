@@ -1,36 +1,78 @@
-# Hi, I'm Omar Shemis
+<p align="center">
+  <img src="assets/hero.svg" alt="Omar Shemis — Turning business problems into useful software" width="100%">
+</p>
 
-I'm a business administration graduate and former EY Egypt tax associate developing practical skills in Python, applied AI, and data analysis.
+<p align="center">
+  <a href="#selected-work">Selected work</a> &nbsp; / &nbsp;
+  <a href="#the-toolbox">The toolbox</a> &nbsp; / &nbsp;
+  <a href="#a-little-context">About me</a> &nbsp; / &nbsp;
+  <a href="https://github.com/OmarShemis?tab=repositories">All repositories ↗</a>
+</p>
 
-My work in finance and Excel/VBA automation sparked an interest in building reliable tools for business operations. I'm now exploring local AI agents, research workflows, and the foundations of machine learning.
+### Business perspective. Python in practice.
 
-## Selected projects
+I'm **Omar**, a business administration graduate and former **EY Egypt tax associate** building Python tools and exploring applied AI. Working with finance, reconciliations, and Excel/VBA automation got me interested in making everyday work simpler through software.
 
-| Project | What it demonstrates |
-|---|---|
-| [ResearchGraph](https://github.com/OmarShemis/researchgraph) | A bounded planner -> researcher -> reviewer -> writer workflow with LangGraph, Ollama, Tavily and MCP notes. |
-| [NoteMate](https://github.com/OmarShemis/notemate) | A local notes assistant using Pydantic AI, Ollama and tested tools. |
-| [Invoice Generator](https://github.com/OmarShemis/invoice-generator) | A desktop business tool with decimal calculations, validated inputs and PDF export. |
-| [News Headline Fetcher](https://github.com/OmarShemis/news-headline-fetcher) | A NewsAPI command-line client with country/category selection and environment-based configuration. |
-| [Image Website Downloader](https://github.com/OmarShemis/Image-Website-Downloader) | A Requests/BeautifulSoup tool that downloads images from HTML, including relative image URLs. |
-| [URL Shortener](https://github.com/OmarShemis/url-shortener) | A small Python CLI integrating TinyURL through pyshorteners. |
-| [Dictionary App](https://github.com/OmarShemis/dictionary-app) | A desktop API client with background lookups and error handling. |
+Now I'm building local AI assistants, research workflows, and practical desktop tools—while learning the foundations of machine learning.
 
-## What I'm learning
+## Selected work
 
-- Statistics, machine-learning fundamentals and model evaluation.
-- Python application design, testing and reproducible environments.
-- Reliable tool use and evaluation for AI agents.
-- Turning business problems into useful, measurable software projects.
+Four projects that show where I'm heading. Open a card for the code, setup, and implementation details.
 
-## Background
+<table>
+<tr>
+<td width="50%"><a href="https://github.com/OmarShemis/researchgraph"><img src="assets/researchgraph.svg" alt="ResearchGraph — LangGraph research workflow" width="100%"></a></td>
+<td width="50%"><a href="https://github.com/OmarShemis/notemate"><img src="assets/notemate.svg" alt="NoteMate — local AI notes assistant" width="100%"></a></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://github.com/OmarShemis/invoice-generator"><img src="assets/invoice-generator.svg" alt="Invoice Generator — Python desktop PDF invoices" width="100%"></a></td>
+<td width="50%"><a href="https://github.com/OmarShemis/dictionary-app"><img src="assets/dictionary-app.svg" alt="Dictionary App — responsive desktop dictionary" width="100%"></a></td>
+</tr>
+</table>
 
-- Business administration education through Pharos University and TU Dublin.
-- Tax compliance, reconciliations and workflow automation at EY Egypt.
-- Based in Egypt; interested in postgraduate study combining AI/data science with business applications.
+**[ResearchGraph](https://github.com/OmarShemis/researchgraph)** connects planning, web research, review, and writing with LangGraph, Ollama, Tavily, and MCP notes. **[NoteMate](https://github.com/OmarShemis/notemate)** explores local AI with Pydantic AI, persistent notes, and bounded arithmetic tools.
 
-These repositories are learning and portfolio projects. Each README describes the current implementation, setup, tests and limitations.
+**[Invoice Generator](https://github.com/OmarShemis/invoice-generator)** turns customer details into PDF invoices with decimal calculations and input validation. **[Dictionary App](https://github.com/OmarShemis/dictionary-app)** looks up English words through a desktop interface with background API requests.
 
-## Learning foundations
+### Small tools, useful jobs
 
-[Expense Tracker](https://github.com/OmarShemis/personal-expense-tracker) | [Account Simulation](https://github.com/OmarShemis/python-bank-account-system) | [First Python Exercise](https://github.com/OmarShemis/hello_world)
+| Project | The idea | Built with |
+| :--- | :--- | :--- |
+| [Expense Tracker](https://github.com/OmarShemis/personal-expense-tracker) | Record expenses and keep them between sessions. | Python · SQLite |
+| [News Headline Fetcher](https://github.com/OmarShemis/news-headline-fetcher) | Browse headlines by country and category. | Python · NewsAPI |
+| [Image Downloader](https://github.com/OmarShemis/Image-Website-Downloader) | Save images found in a web page's HTML. | Requests · BeautifulSoup |
+| [URL Shortener](https://github.com/OmarShemis/url-shortener) | Turn a long URL into a TinyURL link. | Python · pyshorteners |
+
+<details>
+<summary><strong>The foundations — where it started</strong></summary>
+
+- [Account Simulation](https://github.com/OmarShemis/python-bank-account-system): learning object-oriented design, decimal arithmetic, and transfers.
+- [Hello World](https://github.com/OmarShemis/hello_world): my first Python exercise, kept as a starting point.
+
+</details>
+
+## The toolbox
+
+**Working with**
+
+![Python](https://img.shields.io/badge/Python-0D1726?style=flat-square&logo=python&logoColor=6EE7C8) ![SQLite](https://img.shields.io/badge/SQLite-0D1726?style=flat-square&logo=sqlite&logoColor=6EE7C8) ![Git](https://img.shields.io/badge/Git-0D1726?style=flat-square&logo=git&logoColor=6EE7C8) ![Ollama](https://img.shields.io/badge/Ollama-0D1726?style=flat-square&logo=ollama&logoColor=6EE7C8) ![LangGraph](https://img.shields.io/badge/LangGraph-0D1726?style=flat-square&logo=langgraph&logoColor=6EE7C8) ![Pydantic](https://img.shields.io/badge/Pydantic_AI-0D1726?style=flat-square&logo=pydantic&logoColor=6EE7C8)
+
+Python application design · APIs · PySide6 desktop interfaces · Local AI tools · Excel/VBA automation
+
+**Currently learning**
+
+Statistics and machine-learning fundamentals, model evaluation, and reliable tool use for AI agents. My focus is connecting these skills to practical business problems.
+
+## A little context
+
+| Background | Direction |
+| :--- | :--- |
+| Business administration through Pharos University and TU Dublin | Building a technical foundation in Python and applied AI |
+| Tax compliance, reconciliations, and workflow automation at EY Egypt | Turning repetitive work into useful tools |
+| Based in Egypt | Exploring postgraduate study connecting AI, data science, and business |
+
+These are learning and portfolio projects. Each repository documents what works, how to run it, and its current limitations.
+
+---
+
+<p align="center"><strong>Learn the fundamentals. Build something useful. Keep improving.</strong><br><br><a href="https://github.com/OmarShemis?tab=repositories">Explore the full collection ↗</a></p>

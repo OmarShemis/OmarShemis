@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="210" viewBox="0 0 480 210" role="img" aria-label="Dictionary App — Find the word. Keep the interface moving.">
+<title>Dictionary App</title><desc>Find the word. Keep the interface moving.</desc>
+<rect width="480" height="210" rx="16" fill="#0d1726"/><rect x="1" y="1" width="478" height="208" rx="15" fill="none" stroke="#253449"/>
+<rect x="30" y="26" width="6" height="6" rx="2" fill="#6ee7c8"/>
+<g font-family="Arial, Helvetica, sans-serif"><text x="47" y="35" fill="#6ee7c8" font-size="11" letter-spacing="2">04 / DESKTOP SOFTWARE</text>
+<text x="30" y="88" fill="#f1f5f9" font-size="30" font-weight="700" letter-spacing="-1">Dictionary App</text>
+<text x="30" y="125" fill="#aabbd0" font-size="14">Find the word. Keep the interface moving.</text>
+<path d="M30 153H450" stroke="#253449"/>
+<text x="30" y="183" fill="#aabbd0" font-size="11" letter-spacing="1">Python / PySide6 / Dictionary API</text>
+<text x="450" y="183" fill="#6ee7c8" font-size="13" text-anchor="end">EXPLORE ↗</text></g></svg>
