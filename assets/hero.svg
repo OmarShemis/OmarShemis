@@ -1,10 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="350" viewBox="0 0 1000 350" role="img" aria-label="Omar Shemis — Turning business problems into useful software.">
-<title>Omar Shemis</title><desc>Turning business problems into useful software.</desc>
-<rect width="1000" height="350" rx="16" fill="#0d1726"/><rect x="1" y="1" width="998" height="348" rx="15" fill="none" stroke="#253449"/>
-<g fill="none" stroke="#6ee7c8" stroke-opacity=".2"><circle cx="910" cy="98" r="100"/><circle cx="910" cy="98" r="70"/><circle cx="910" cy="98" r="40"/><path d="M760 218L850 140L910 98L985 175"/></g><g fill="#6ee7c8"><circle cx="850" cy="140" r="4"/><circle cx="910" cy="98" r="5"/><circle cx="985" cy="175" r="4"/></g><rect x="48" y="48" width="6" height="6" rx="2" fill="#6ee7c8"/>
-<g font-family="Arial, Helvetica, sans-serif"><text x="65" y="57" fill="#6ee7c8" font-size="12" letter-spacing="2">PYTHON / APPLIED AI / BUSINESS</text>
-<text x="48" y="143" fill="#f1f5f9" font-size="70" font-weight="700" letter-spacing="-1">Omar Shemis</text>
-<text x="48" y="193" fill="#aabbd0" font-size="18">Turning business problems into useful software.</text>
-<path d="M48 293H952" stroke="#253449"/>
-<text x="48" y="323" fill="#aabbd0" font-size="12" letter-spacing="1">EGYPT   /   BUSINESS BACKGROUND. BUILDER MINDSET.</text>
-<text x="952" y="323" fill="#6ee7c8" font-size="13" text-anchor="end">OMAR SHEMIS / BUILD NOTES</text></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="360" viewBox="0 0 1000 360" role="img" aria-label="Omar Shemis. Business perspective. Python in practice.">
+<title>Omar Shemis</title><defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101c30"/><stop offset="1" stop-color="#080f1c"/></linearGradient><radialGradient id="glow"><stop stop-color="#36c9ac" stop-opacity=".22"/><stop offset="1" stop-color="#36c9ac" stop-opacity="0"/></radialGradient><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#90b6d9" stroke-opacity=".045"/></pattern></defs>
+<rect width="1000" height="360" rx="20" fill="url(#bg)"/><rect width="1000" height="360" rx="20" fill="url(#grid)"/><circle cx="835" cy="160" r="230" fill="url(#glow)"/>
+<g stroke="#69e6c3" fill="none"><circle cx="835" cy="158" r="105" opacity=".2"/><circle cx="835" cy="158" r="76" opacity=".3"/><path d="M735 184L789 107L880 120L930 198L817 238Z" opacity=".5"/><path d="M789 107L817 238L880 120M735 184L930 198" opacity=".25"/></g>
+<g fill="#69e6c3"><circle cx="735" cy="184" r="5"/><circle cx="789" cy="107" r="6"/><circle cx="880" cy="120" r="5"/><circle cx="930" cy="198" r="6"/><circle cx="817" cy="238" r="5"/></g>
+<g font-family="Arial,Helvetica,sans-serif"><text x="48" y="55" fill="#69e6c3" font-size="13" letter-spacing="3">BUSINESS × CODE × CURIOSITY</text><text x="44" y="143" fill="#f4f8ff" font-size="76" font-weight="700" letter-spacing="-3">Omar Shemis</text><text x="48" y="191" fill="#d0dceb" font-size="24">Business perspective. Python in practice.</text><text x="48" y="230" fill="#98aec7" font-size="18">Building useful tools. Exploring applied AI.</text>
+<path d="M48 282H952" stroke="#2a3b51"/><text x="48" y="320" fill="#b4c5d8" font-size="13" letter-spacing="2">PYTHON / LOCAL AI / AUTOMATION</text><text x="952" y="320" fill="#69e6c3" font-size="13" letter-spacing="2" text-anchor="end">BASED IN EGYPT</text></g><rect x="1" y="1" width="998" height="358" rx="19" fill="none" stroke="#2b4159"/></svg>

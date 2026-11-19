@@ -19,16 +19,12 @@ Now I'm building local AI assistants, research workflows, and practical desktop 
 
 Four projects that show where I'm heading. Open a card for the code, setup, and implementation details.
 
-<table>
-<tr>
-<td width="50%"><a href="https://github.com/OmarShemis/researchgraph"><img src="assets/researchgraph.svg" alt="ResearchGraph — LangGraph research workflow" width="100%"></a></td>
-<td width="50%"><a href="https://github.com/OmarShemis/notemate"><img src="assets/notemate.svg" alt="NoteMate — local AI notes assistant" width="100%"></a></td>
-</tr>
-<tr>
-<td width="50%"><a href="https://github.com/OmarShemis/invoice-generator"><img src="assets/invoice-generator.svg" alt="Invoice Generator — Python desktop PDF invoices" width="100%"></a></td>
-<td width="50%"><a href="https://github.com/OmarShemis/dictionary-app"><img src="assets/dictionary-app.svg" alt="Dictionary App — responsive desktop dictionary" width="100%"></a></td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://github.com/OmarShemis/researchgraph"><img src="assets/researchgraph.svg" alt="ResearchGraph — Plan → Research → Review → Write" width="420"></a>
+  <a href="https://github.com/OmarShemis/notemate"><img src="assets/notemate.svg" alt="NoteMate — Your notes. A local model. Useful tools." width="420"></a>
+  <a href="https://github.com/OmarShemis/invoice-generator"><img src="assets/invoice-generator.svg" alt="Invoice Generator — Customer details → PDF invoice" width="420"></a>
+  <a href="https://github.com/OmarShemis/dictionary-app"><img src="assets/dictionary-app.svg" alt="Dictionary App — Words, definitions, and examples." width="420"></a>
+</p>
 
 **[ResearchGraph](https://github.com/OmarShemis/researchgraph)** connects planning, web research, review, and writing with LangGraph, Ollama, Tavily, and MCP notes. **[NoteMate](https://github.com/OmarShemis/notemate)** explores local AI with Pydantic AI, persistent notes, and bounded arithmetic tools.
 
