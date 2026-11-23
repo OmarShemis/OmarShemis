@@ -26,8 +26,8 @@ Five projects that show where I'm heading: AI tooling, research workflows, and p
 **[General MCP Toolkit](https://github.com/OmarShemis/general-mcp-toolkit)** gives MCP-compatible AI clients 27 tools for files, web search, PDF reading, command execution, and Windows desktop automation. Built with Python and FastMCP, it includes atomic file replacements, fractional waits, and regression tests. Desktop automation uses Windows-MCP and runs on the Windows computer hosting the server.
 
 <p align="center">
-  <a href="https://github.com/OmarShemis/researchgraph"><img src="assets/researchgraph.svg" alt="ResearchGraph — Plan → Research → Analyze → Review → Write" width="420"></a>
-  <a href="https://github.com/OmarShemis/notemate"><img src="assets/notemate.svg" alt="NoteMate — Your notes. A local model. Useful tools." width="420"></a>
+  <a href="https://github.com/OmarShemis/researchgraph"><img src="assets/researchgraph-card.svg" alt="ResearchGraph — Plan → Research → Analyze → Review → Write" width="420"></a>
+  <a href="https://github.com/OmarShemis/notemate"><img src="assets/notemate-card.svg" alt="NoteMate — Your notes. A local model. Useful tools." width="420"></a>
   <a href="https://github.com/OmarShemis/invoice-generator"><img src="assets/invoice-generator.svg" alt="Invoice Generator — Customer details → PDF invoice" width="420"></a>
   <a href="https://github.com/OmarShemis/dictionary-app"><img src="assets/dictionary-app.svg" alt="Dictionary App — Words, definitions, and examples." width="420"></a>
 </p>
