@@ -17,7 +17,13 @@ Now I'm building local AI assistants, research workflows, and practical desktop 
 
 ## Selected work
 
-Four projects that show where I'm heading. Open a card for the code, setup, and implementation details.
+Five projects that show where I'm heading: AI tooling, research workflows, and practical desktop software. Open a card for the code, setup, and implementation details.
+
+<p align="center">
+  <a href="https://github.com/OmarShemis/general-mcp-toolkit"><img src="assets/general-mcp-toolkit.svg" alt="General MCP Toolkit — 27 tools for files, web research, PDFs, commands, and Windows desktop automation" width="860"></a>
+</p>
+
+**[General MCP Toolkit](https://github.com/OmarShemis/general-mcp-toolkit)** gives MCP-compatible AI clients 27 tools for files, web search, PDF reading, command execution, and Windows desktop automation. Built with Python and FastMCP, it includes atomic file replacements, fractional waits, and regression tests. Desktop tools run on the Windows computer hosting the server.
 
 <p align="center">
   <a href="https://github.com/OmarShemis/researchgraph"><img src="assets/researchgraph.svg" alt="ResearchGraph — Plan → Research → Review → Write" width="420"></a>
@@ -53,7 +59,7 @@ Four projects that show where I'm heading. Open a card for the code, setup, and 
 
 ![Python](https://img.shields.io/badge/Python-0D1726?style=flat-square&logo=python&logoColor=6EE7C8) ![SQLite](https://img.shields.io/badge/SQLite-0D1726?style=flat-square&logo=sqlite&logoColor=6EE7C8) ![Git](https://img.shields.io/badge/Git-0D1726?style=flat-square&logo=git&logoColor=6EE7C8) ![Ollama](https://img.shields.io/badge/Ollama-0D1726?style=flat-square&logo=ollama&logoColor=6EE7C8) ![LangGraph](https://img.shields.io/badge/LangGraph-0D1726?style=flat-square&logo=langgraph&logoColor=6EE7C8) ![Pydantic](https://img.shields.io/badge/Pydantic_AI-0D1726?style=flat-square&logo=pydantic&logoColor=6EE7C8)
 
-Python application design · APIs · PySide6 desktop interfaces · Local AI tools · Excel/VBA automation
+Python application design · APIs · FastMCP / Model Context Protocol · Windows desktop automation · PySide6 interfaces · Local AI tools · Excel/VBA automation
 
 **Currently learning**
 
