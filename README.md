@@ -23,7 +23,7 @@ Five projects that show where I'm heading: AI tooling, research workflows, and p
   <a href="https://github.com/OmarShemis/general-mcp-toolkit"><img src="assets/general-mcp-toolkit.svg" alt="General MCP Toolkit — 27 tools for files, web research, PDFs, commands, and Windows desktop automation" width="860"></a>
 </p>
 
-**[General MCP Toolkit](https://github.com/OmarShemis/general-mcp-toolkit)** gives MCP-compatible AI clients 27 tools for files, web search, PDF reading, command execution, and Windows desktop automation. Built with Python and FastMCP, it includes atomic file replacements, fractional waits, and regression tests. Desktop tools run on the Windows computer hosting the server.
+**[General MCP Toolkit](https://github.com/OmarShemis/general-mcp-toolkit)** gives MCP-compatible AI clients 27 tools for files, web search, PDF reading, command execution, and Windows desktop automation. Built with Python and FastMCP, it includes atomic file replacements, fractional waits, and regression tests. Desktop automation uses Windows-MCP and runs on the Windows computer hosting the server.
 
 <p align="center">
   <a href="https://github.com/OmarShemis/researchgraph"><img src="assets/researchgraph.svg" alt="ResearchGraph — Plan → Research → Analyze → Review → Write" width="420"></a>
@@ -34,7 +34,7 @@ Five projects that show where I'm heading: AI tooling, research workflows, and p
 
 **[ResearchGraph](https://github.com/OmarShemis/researchgraph)** provides a Streamlit research chat powered by LangGraph, Deep Agents, a local LLM, and tools from an external MCP server, including Tavily search. Its workflow plans, researches, analyzes, reviews, and writes, with a conditional loop for additional research. **[NoteMate](https://github.com/OmarShemis/notemate)** explores local AI with Pydantic AI, persistent notes, and bounded arithmetic tools.
 
-**[Invoice Generator](https://github.com/OmarShemis/invoice-generator)** turns customer details into PDF invoices with decimal calculations and input validation. **[Dictionary App](https://github.com/OmarShemis/dictionary-app)** looks up English words through a desktop interface with background API requests.
+**[Invoice Generator](https://github.com/OmarShemis/invoice-generator)** turns customer details into single-item PDF invoices with decimal calculations and input validation. **[Dictionary App](https://github.com/OmarShemis/dictionary-app)** looks up English words through a desktop interface with background API requests.
 
 ### Small tools, useful jobs
 
@@ -59,7 +59,7 @@ Five projects that show where I'm heading: AI tooling, research workflows, and p
 
 ![Python](https://img.shields.io/badge/Python-0D1726?style=flat-square&logo=python&logoColor=6EE7C8) ![SQLite](https://img.shields.io/badge/SQLite-0D1726?style=flat-square&logo=sqlite&logoColor=6EE7C8) ![Git](https://img.shields.io/badge/Git-0D1726?style=flat-square&logo=git&logoColor=6EE7C8) ![Local LLM](https://img.shields.io/badge/Local_LLM-0D1726?style=flat-square&logoColor=6EE7C8) ![LangGraph](https://img.shields.io/badge/LangGraph-0D1726?style=flat-square&logo=langgraph&logoColor=6EE7C8) ![Pydantic](https://img.shields.io/badge/Pydantic_AI-0D1726?style=flat-square&logo=pydantic&logoColor=6EE7C8)
 
-Python application design · APIs · FastMCP / Model Context Protocol · Windows desktop automation · PySide6 interfaces · Local AI tools · Excel/VBA automation
+Python application design · APIs · LangGraph / Deep Agents · Streamlit interfaces · FastMCP / Model Context Protocol · Windows desktop automation · PySide6 interfaces · Local AI tools · Excel/VBA automation
 
 **Currently learning**
 
